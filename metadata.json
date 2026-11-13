@@ -1,0 +1,6 @@
+{
+  "name": "Wallflower Lo-Fi Lounge",
+  "description": "A cozy, lo-fi editorial sanctuary and social navigation toolkit for introverts featuring a social battery barometer, guided breathing pacer, pocket excuse slip generator, fake call simulator, synthesized ambient soundscape, and one-tap Irish Exit reading decoy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
